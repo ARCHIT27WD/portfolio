@@ -31,16 +31,15 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Spotify Clone 🎵",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Crafted a Spotify Clone Platform ,tailored for normal Music Listeners,Engineered the system using a potent blend of HTML,CSS,JavaScript",
+    url: "https://github.com/ARCHIT27WD/SpotifyMy_clone",
   },
-  {
-    title: "Web Development for Beginners",
+  { title: "Gemini Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Crafted a Gemini Clone , Gemini is designed to enhance Google's search engine, improve user interactions,and provide more accurate and contextually relevant information.",
+    url: "https://github.com/ARCHIT27WD/gemini-clone",
   },
   {
     title: "My Resume Site",
